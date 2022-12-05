@@ -6,6 +6,13 @@ body {
     background-color: #cccccc;
 }
 
+.titlePet {
+  align-self: center;
+  color: black;
+  align-content: center;
+  padding-left: 150px;
+}
+
 .topnav {
   overflow: hidden;
   background-color: #ead4bc;
